@@ -215,7 +215,7 @@ if (ask == true) {
 
 - 建立名为`SCKEY`的 secret，并添加获取的 SCKEY 值，即可开启Server酱推送
 
-其他推送方式请参考对应官方文档获取 KEY 或 TOKEN 等参数，再添加到`Secrets`里。
+其他推送方式请参考对应官方文档获取 KEY 或 TOKEN 等参数再添加到`Secrets`里。
 
 ## 🧬参数
 
