@@ -42,7 +42,7 @@ Genshin Impact Helper 可以自动化为你获取原神每日福利。
 1. Fork 仓库
 2. 获取 Cookie
 3. 添加 Cookie 至 Secrets
-4. 启用 Actions
+4. 启用 Action
 
 <details>
 <summary>查看教程</summary>
