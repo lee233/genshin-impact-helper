@@ -17,7 +17,7 @@ Genshin Impact Helper
 
 > 吹水交流：[130516740](https://qm.qq.com/cgi-bin/qm/qr?k=_M9lYFxkYD7yQQR2btyG3pkZWFys_I-l&authKey=evGDzE2eFVBm46jsHpgcWrokveg70Z9GKl3H45o0oJuia620UGeO27lDPG9gKb/2&noverify=0)
 
-原神是我见过的唯一一个游戏本体和签到福利分离的游戏，玩家为了签到还要额外下载米游社 App。
+原神是我见过的唯一的一个游戏本体和签到福利分离的游戏，玩家为了签到还要额外下载米游社 App。
 
 平心而论，目前的每日签到奖励真的不咋地，都知道是蚊子腿，事实上，你完全可以选择无视签到，不签也没啥大的损失；或者选择手动签到，但这样的话哪天忘记打卡了就很头疼。
 
@@ -169,7 +169,7 @@ if (ask == true) {
 ⚠️开启自动同步后[存在的风险](https://github.com/y1ndan/genshin-impact-helper/pull/47#issuecomment-751869761)
 > 这导致了开发者账号泄露后用户被供应链攻击的隐患，而主页的协议中没有明确指出这一点。协议中同时包含了“除此之外，开发者无权获取您的 Cookie”这一陈述，而事实上开发者在此次PR后可以通过更改源代码来在用户未经授权的情况下收集用户Cookie。此前用户在使用本软件时应该默认进行代码审查，然后手动在自己的Repo里PR进行更新。现在的则跳过了这一用户授权更新的动作。
 
-若你了解并接受自动同步带来的可能的风险，请继续往下阅读：
+若你了解并接受自动同步带来的可能的风险，请继续往下阅读
 
 <details>
 <summary>开启同步</summary>
